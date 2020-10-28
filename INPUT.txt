@@ -1,3 +1,0 @@
-List size: 2
-Range of list: 0 to 999
-945 <-- This would be a random number in the above range to search for. 
